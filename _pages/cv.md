@@ -11,49 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B. tech in Metallurgical and Materials Engineering, IIT Roorkee, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2019: Data Scientist
+  * Zee5
+  * Duties included: Developing deep learning and NLP solutions.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2018 - July 2019: Associate Data Scientist
+  * Innoplexus Consulting Services PVT. LTD.
+  * Duties included: Developing NLP solutions like Sentiment Analysis, Entity extraction, Document matching etc.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Natural Language Processing
+* Pytorch
+* Elasticsearch
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Certifications and Online Projects
+==================================
+* Intro to Machine Learning by Andrew Ng
+* Deep learning.ai Specialization course on Deep Learning by Andrew Ng
+* Statoil/C-CORE Iceberg Classifier Challenge: 156/3341 (Top 5% [rank](https://www.kaggle.com/mukeshiitr)) ([github](https://github.com/mukesh-mehta/Kaggle-Statoil))
+  * Developed an ensemble model of Mobilenet+VGG, VGG16, VGG19.
+* TGS Salt Identification Challenge: 185/3234 (Top 6% [rank](https://www.kaggle.com/mukeshiitr))
+  * Developed a Unet model with ResNet and Squeeze and Excitation Network as backbone.
+* Quora Insincere Questions Classification: 310/4037 (Top 8% [rank](https://www.kaggle.com/mukeshiitr))
+  * Developed a LSTM based text classification model.
+* Intel Scene Classification Challenge: 27th [rank](https://www.analyticsvidhya.com/user/mukesh_kumar06/) ([github](https://github.com/mukesh-mehta/Intel_scene_classification))
+  * Achieved 0.948 acc score using transfer learning with ResNet34 architecture.
