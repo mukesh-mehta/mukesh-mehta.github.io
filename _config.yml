@@ -120,8 +120,7 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages/about.md
-  - _pages/cv.md
+  - _pages
   - files
 exclude:
   - "*.sublime-project"
@@ -147,6 +146,11 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - _portfolio
+  - _publications
+  - _posts
+  - _talks
+  - _teaching
 keep_files:
   - .git
   - .svn
